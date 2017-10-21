@@ -1,6 +1,6 @@
 ### 开始之前的准备工作
 1.需要你自己写的网页文件  
-![](./src/images/1.png)
+![](https://github.com/LucienJan/How-to-preview-your-HTML-on-github/blob/master/src/images/1.png?raw=true)
 
 
 
