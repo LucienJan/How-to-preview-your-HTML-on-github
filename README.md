@@ -5,8 +5,7 @@
 3.下载安装git。[下载地址](https://git-scm.com/downloads)
 
 ### 教程开始  
-<font face="黑体" color="blue">
-<strong>步骤一:</strong></font>
+<strong style="color:bule;">步骤一:</strong>
 登录到Github上，新建一个repo，命名为test，勾选 initialize this repository with a README，点击create repository。  
 ![2.png](https://github.com/LucienJan/How-to-preview-your-HTML-on-github/raw/master/src/images/2.png)  
 ![3.png](https://github.com/LucienJan/How-to-preview-your-HTML-on-github/raw/master/src/images/3.png)  
