@@ -65,6 +65,17 @@ ok之后耐心等待。
 ![](https://github.com/LucienJan/How-to-preview-your-HTML-on-github/raw/master/src/images/21.png)  
 ![](https://github.com/LucienJan/How-to-preview-your-HTML-on-github/raw/master/src/images/22.png)
 恭喜你，成功了！！！哦不，还差一步，不follow一下我？不fork一下文章？
+<br />
+
+附录一：常用git命令  
+$ git clone		//本地如果无远程代码，先做这步，不然就忽略  
+$ cd			//定位到你blog的目录下  
+$ git status	//查看本地自己修改了多少文件  
+$ git add .		//添加远程不存在的git文件  
+$ git commit -m "what I want told to someone" //提交修改  
+$ git push		//更新到远程服务器上  
+$ git rm		//移除文件  
+
 
 
 
